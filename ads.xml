@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements >
+  <Ad>
+    <ImageUrl>ups.jpg</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>UPS sponsor</AlternateText>
+    <Impressions>1000000</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>fedex.jpg</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>Fedex Sponsor</AlternateText>
+    <Impressions>1000000</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>gati.jpg</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>Gati Sponsor</AlternateText>
+    <Impressions>1000000</Impressions>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>royal.png</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>Royal Sponsor</AlternateText>
+    <Impressions>1000000</Impressions>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>blue.jpg</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>Blue Dart Sponsor</AlternateText>
+    <Impressions>1000000</Impressions>
+  </Ad>
+</Advertisements>
